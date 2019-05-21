@@ -1,0 +1,35 @@
+{
+    "tables": [
+        {
+            "error-count": 0,
+            "fields": [
+                "subline_id",
+                "detail_code",
+                "detail_code_desc",
+                "effective_date",
+                "inactive_date",
+                "residential_ind",
+                "legislation_id",
+                "service_category_flag",
+                "user_id",
+                "data_entry_date",
+                "ministry_id"
+            ],
+            "format": "xlsx",
+            "row-count": 1000,
+            "source": ".\\detail_code.xlsx",
+            "errors": [],
+            "time": 4.162,
+            "scheme": "file",
+            "valid": true
+        }
+    ],
+    "error-count": 0,
+    "table-count": 1,
+    "warnings.\\detail_code.xlsx\" inspecti": [
+        "Table \"on has reached 1000 row(s) limit"
+    ],
+    "valid": true,
+    "time": 4.174,
+    "preset": "table"
+}
